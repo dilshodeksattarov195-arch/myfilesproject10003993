@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasedonnect",
+        "uuid": 26533485,
+        "checksum": "725m2"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
